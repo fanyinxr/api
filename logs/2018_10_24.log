@@ -1,0 +1,35 @@
+[2018-10-24 19:36:41,483] - logger.py] - INFO: -----------start---------!
+[2018-10-24 19:36:41,495] - logger.py] - INFO: 测试单号：816608751876  快递名称：圆通快递
+[2018-10-24 19:36:41,514] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcoourierinfo-816608751876-yuantong.html
+[2018-10-24 19:44:15,675] - logger.py] - INFO: -----------start---------!
+[2018-10-24 19:44:15,676] - logger.py] - INFO: 测试单号：816608751876  快递名称：圆通快递
+[2018-10-24 19:44:21,770] - logger.py] - INFO: -----------start---------!
+[2018-10-24 19:44:21,771] - logger.py] - INFO: 测试单号：816608751876  快递名称：圆通快递
+[2018-10-24 19:44:27,350] - logger.py] - INFO: -----------start---------!
+[2018-10-24 19:44:27,352] - logger.py] - INFO: 测试单号：816608751876  快递名称：圆通快递
+[2018-10-24 19:45:12,841] - logger.py] - INFO: -----------start---------!
+[2018-10-24 19:45:12,842] - logger.py] - INFO: 测试单号：816608751876  快递名称：圆通快递
+[2018-10-24 19:46:31,851] - logger.py] - INFO: -----------start---------!
+[2018-10-24 19:46:31,853] - logger.py] - INFO: 测试单号：816608751876  快递名称：圆通快递
+[2018-10-24 19:46:31,854] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-816608751876-yuantong.html
+[2018-10-24 19:46:32,108] - logger.py] - INFO: 获取请求结果：{'success': False, 'ico': '', 'phone': '', 'url': '', 'status': 0, 'companytype': 'yuantong', 'nu': '816608751876', 'company': None, 'reason': '快递公司参数异常：单号不存在或者已经过期', 'data': '', 'time': '', 'rank': '2.8', 'exceed': '', 'timeused': '--'}
+[2018-10-24 19:46:32,115] - logger.py] - INFO: 获取公司名称：None
+[2018-10-24 19:46:32,117] - logger.py] - INFO: 获取data内容：
+[2018-10-24 19:49:17,792] - logger.py] - INFO: ------登录成功用例：start!---------
+[2018-10-24 19:49:17,793] - logger.py] - INFO: 输入正确账号：lklkerry
+[2018-10-24 19:49:17,794] - logger.py] - INFO: 输入正确密码：lkl19971114
+[2018-10-24 19:49:18,394] - logger.py] - INFO: 我买网登陆结果：b'\r\n\r\n{"msg":"2"}\r\n'
+[2018-10-24 19:49:18,399] - logger.py] - INFO: 获取测试结果：{'msg': '2'}
+[2018-10-24 19:49:18,402] - logger.py] - INFO: ------pass!---------
+[2018-10-24 19:49:18,405] - logger.py] - INFO: ------登录失败用例：start!---------
+[2018-10-24 19:49:18,409] - logger.py] - INFO: 输入正确账号：lklkerry
+[2018-10-24 19:49:18,411] - logger.py] - INFO: 输入错误密码：lkl199711
+[2018-10-24 19:49:18,527] - logger.py] - INFO: 我买网登陆结果：b'\r\n\r\n{"msg":"2"}\r\n'
+[2018-10-24 19:49:18,532] - logger.py] - INFO: 获取测试结果：{'msg': '2'}
+[2018-10-24 19:49:18,535] - logger.py] - INFO: ------pass!---------
+[2018-10-24 19:49:18,539] - logger.py] - INFO: -----------start---------!
+[2018-10-24 19:49:18,543] - logger.py] - INFO: 测试单号：816608751876  快递名称：圆通快递
+[2018-10-24 19:49:18,547] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-816608751876-yuantong.html
+[2018-10-24 19:49:18,758] - logger.py] - INFO: 获取请求结果：{'success': False, 'ico': '', 'phone': '', 'url': '', 'status': 0, 'companytype': 'yuantong', 'nu': '816608751876', 'company': None, 'reason': '快递公司参数异常：单号不存在或者已经过期', 'data': '', 'time': '', 'rank': '2.8', 'exceed': '', 'timeused': '--'}
+[2018-10-24 19:49:18,762] - logger.py] - INFO: 获取公司名称：None
+[2018-10-24 19:49:18,764] - logger.py] - INFO: 获取data内容：
